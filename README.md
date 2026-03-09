@@ -1,5 +1,24 @@
 # IF1210-Tubes-01
 
+# IF1210-Tubes-01
+
+## Repository Note
+This repository contains a migrated version of a previous group project developed for the IF1210 course.  
+The original project was previously hosted under a different GitHub account.  
+This repository is maintained under my current account for documentation, development, and portfolio purposes.
+
+## Pembagian Tugas
+
+| Nama | Modul | Deskripsi |
+|-----|------|-----------|
+| Riko | Denah | Implementasi struktur denah rumah sakit berbasis matriks, fitur LIHAT_DENAH, serta pengelolaan data ruangan |
+| Riko | Dokumentasi | Penyusunan README, dokumentasi command, dan penjelasan modul sistem |
+| Emir | Auth | Implementasi fitur login dan logout |
+| Fariz | Auth | Implementasi register dan reset password |
+| Chia | User | Struktur data user dan inisialisasi akun default |
+| Qaddy | View User | Sorting user dan pencarian menggunakan binary search |
+| Rafi | Utils | Fungsi helper seperti case-sensitive check dan run length encoder |
+
 # VERSI v2.0
 ```
 username manager: zeru

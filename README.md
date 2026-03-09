@@ -1,7 +1,5 @@
 # IF1210-Tubes-01
 
-# IF1210-Tubes-01
-
 ## Repository Note
 This repository contains a migrated version of a previous group project developed for the IF1210 course.  
 The original project was previously hosted under a different GitHub account.  

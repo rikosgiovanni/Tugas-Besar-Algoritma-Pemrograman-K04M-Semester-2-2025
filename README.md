@@ -10,7 +10,7 @@ This repository is maintained under my current account for documentation, develo
 | Nama | Modul | Deskripsi |
 |-----|------|-----------|
 | Riko | Denah | Implementasi struktur denah rumah sakit berbasis matriks, fitur LIHAT_DENAH, serta pengelolaan data ruangan |
-| Riko & Farix | Dokumentasi | Penyusunan README, dokumentasi command, dan penjelasan modul sistem |
+| Riko & Fariz | Dokumentasi | Penyusunan README, dokumentasi command, dan penjelasan modul sistem |
 | Emir | Auth | Implementasi fitur login dan logout |
 | Fariz | Auth | Implementasi register dan reset password |
 | Chia | User | Struktur data user dan inisialisasi akun default |
